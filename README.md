@@ -1,2 +1,2 @@
 # hypr
-My personal hypr rice
+hypr rice configuration files.
